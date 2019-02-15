@@ -1,0 +1,1 @@
+Epoch	Weight 0	Weight 1	Weight 2	l_rate	Error
